@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python (Advanced), Feature Engineering, Machine Learning, Deep Learning Frameworks, SQL Optimization, Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/typkaplan](https://github.com/typkaplan)
+- 👨‍💻 All of my projects are available at [[https://github.com/typkaplan](https://github.com/typkaplan](https://www.linkedin.com/in/tayyipkaplan/details/projects/))
 
 - 💬 Ask me about **Data Science · Data Analytics · Recommender Systems · Customer Segmentation · ERP & Production Planning**
 
